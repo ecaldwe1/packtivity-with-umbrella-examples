@@ -1,0 +1,11 @@
+process:
+  process_type: 'string-interpolated-cmd'
+  cmd: 'echo Hello'
+publisher:
+  publisher_type: 'frompar-pub'
+  outputmap:
+    outputfile: outputfile
+environment:
+  environment_type: 'tarball'
+  image: 'centos6'
+  url: 'https://dl.vecnet.org/downloads/j098zn85n'
