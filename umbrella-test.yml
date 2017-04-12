@@ -1,0 +1,11 @@
+process:
+  process_type: 'string-interpolated-cmd'
+  cmd: 'echo Hello {parone} | tee {outputfile}'
+publisher:
+  publisher_type: 'frompar-pub'
+  outputmap:
+    outputfile: outputfile
+environment:
+  environment_type: 'umbrella'
+  image: 'centos6'
+  spec_url: '/home/beth/Desktop/DASPOS/fast.umbrella'
