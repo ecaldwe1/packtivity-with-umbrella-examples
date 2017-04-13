@@ -1,8 +1,9 @@
-# Hello World - an Umbrella example
+# Input File Example 2
+## a Packtivity example using Umbrella backend
 
 This example uses [Umbrella](http://ccl.cse.nd.edu/software/manuals/umbrella.html) as the backend.
 
-# How to run
+## How to run
 
 ```bash
 rm -rf _packtivity
