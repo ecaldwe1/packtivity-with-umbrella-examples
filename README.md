@@ -24,7 +24,7 @@ Examples:
    This example takes an input file as a parameter and saves the contents of the input file into an output file. 
    See the instructions within the _input-file-example_ directory for details on how to run this example.
    
- - [**Input File Example 2**](https://github.com/ecaldwe1/packtivity-with-umbrella-examples/tree/master/input-file-example)
+ - [**Input File Example 2**](https://github.com/ecaldwe1/packtivity-with-umbrella-examples/tree/master/input-file-example2)
    
    This example takes an input file as a parameter and saves the contents of the input file into an output file, however the difference between this example and the Input File Example above, is that the input file is read from an inputs directory and the output file is written to an outdir, similar to the example on the [Packtivity GitHub page](https://github.com/diana-hep/packtivity) 
    See the instructions within the _input-file-example-2_ directory for details on how to run this example.
