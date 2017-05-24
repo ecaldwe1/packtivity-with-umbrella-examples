@@ -1,5 +1,5 @@
 # packtivity-with-umbrella-examples
-Examples of running Packtivity using Umbrella environment
+## Examples of running Packtivity using Umbrella environment
 
 This repository contains examples to illustrate packtivities running using Umbrella.
 
