@@ -1,10 +1,12 @@
 # packtivity-with-umbrella-examples
 Examples of running Packtivity using Umbrella environment
 
-This repository contains two examples to illustrate packtivities running using Umbrella.
+This repository contains examples to illustrate packtivities running using Umbrella.
 
 Please note that the packtivity and yadage-schemas used in this repository have been modified to accomodate Umbrella as 
-an environment. These examples **will not run** if you are using these versions of [Packtivity](https://github.com/diana-hep/packtivity) or 
+an environment. The modified code can be found in these repositories: [Packtivity](https://github.com/ecaldwe1/packtivity) [Yadage-Schemas](https://github.com/ecaldwe1/yadage-schemas). 
+
+NOTE: These examples **will not run** if you are using these versions of [Packtivity](https://github.com/diana-hep/packtivity) or 
 [Yadage-Schemas](https://github.com/diana-hep/yadage-schemas).
 
 The changes required to add Umbrella are found in:
@@ -13,7 +15,7 @@ The changes required to add Umbrella are found in:
  - `yadage-schemas/yadage-schemas/packtivity/packtivity-schema.json`
 
 Examples:
- - [**Hello World Example**](https://github.com/ecaldwe1/packtivity-with-umbrella-examples/tree/master/hello-world)
+ - [**Hello World Example**](https://github.com/ecaldwe1/packtivity-with-umbrella-examples/tree/master/hello-world-example)
  
    Very basic example that runs a command and creates an output file with the result of the command. 
    See the instructions within the _hello-world-example_ directory for details on how to run this example.
