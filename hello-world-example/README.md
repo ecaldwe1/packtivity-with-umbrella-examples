@@ -3,6 +3,7 @@
 
 This example uses [Umbrella](http://ccl.cse.nd.edu/software/manuals/umbrella.html) as the backend.
 
+The specification file used in this example can be found at: https://raw.githubusercontent.com/ecaldwe1/packtivity-with-umbrella-examples/master/fast.umbrella
 ## How to run
 
 ```bash

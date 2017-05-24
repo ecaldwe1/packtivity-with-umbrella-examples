@@ -8,4 +8,4 @@ publisher:
 environment:
   environment_type: 'umbrella'
   image: 'centos6'
-  spec_url: '/home/beth/Desktop/DASPOS/fast.umbrella'
+  spec_url: 'https://raw.githubusercontent.com/ecaldwe1/packtivity-with-umbrella-examples/master/fast.umbrella'
