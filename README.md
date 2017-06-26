@@ -16,16 +16,25 @@ These examples **will not run** if you are currently using these versions of [Pa
 ### Examples:
  - [**Hello World Example**](https://github.com/ecaldwe1/packtivity-with-umbrella-examples/tree/master/hello-world-example)
  
-   Very basic example that runs a command and creates an output file with the result of the command. 
+   Very basic example that runs a command and creates an output file with the result of the command. The Packtivity specification in this example uses a URL to the Umbrella specification file.
+   
    See the instructions within the _hello-world-example_ directory for details on how to run this example.
    
  - [**Input File Example**](https://github.com/ecaldwe1/packtivity-with-umbrella-examples/tree/master/input-file-example)
    
    Example illustrates that using Packtivity with Umbrella in a workflow context is viable. 
-   This example takes an input file as a parameter and saves the contents of the input file into an output file. 
+   This example takes an input file as a parameter and saves the contents of the input file into an output file. The Packtivity specification in this example uses a URL to the Umbrella specification file.
+   
    See the instructions within the _input-file-example_ directory for details on how to run this example.
    
  - [**Input File Example 2**](https://github.com/ecaldwe1/packtivity-with-umbrella-examples/tree/master/input-file-example2)
    
-   This example takes an input file as a parameter and saves the contents of the input file into an output file, however the difference between this example and the Input File Example above, is that the input file is read from an inputs directory and the output file is written to an outdir, similar to the example on the [Packtivity GitHub page](https://github.com/diana-hep/packtivity) 
+   This example takes an input file as a parameter and saves the contents of the input file into an output file, however the difference between this example and the Input File Example above, is that the input file is read from an inputs directory and the output file is written to an outdir, similar to the example on the [Packtivity GitHub page](https://github.com/diana-hep/packtivity). The Packtivity specification in this example uses a URL to the Umbrella specification file. 
+   
    See the instructions within the _input-file-example-2_ directory for details on how to run this example.
+   
+ - [**Hello World Example with Reference to the Umbrella Specification**](https://github.com/ecaldwe1/packtivity-with-umbrella-examples/tree/master/hello-world-example-full-spec-ref)
+ 
+   Runs a command and creates an output file with the result of the command, just as in the [Hello World Example](https://github.com/ecaldwe1/packtivity-with-umbrella-examples/tree/master/hello-world-example), however the Packtivity specification in this example uses a reference to the Umbrella specification file.
+   
+   See the instructions within the _hello-world-example-full-spec-ref_ directory for details on how to run this example.
