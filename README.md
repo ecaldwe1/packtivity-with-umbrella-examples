@@ -12,6 +12,10 @@ The changes required to add Umbrella are found in:
 
 These examples **will not run** if you are currently using these versions of [Packtivity](https://github.com/diana-hep/packtivity) or [Yadage-Schemas](https://github.com/diana-hep/yadage-schemas).
 
+### [Wiki](https://github.com/ecaldwe1/packtivity-with-umbrella-examples/wiki) Pages:
+ - [Setting up your Environment](https://github.com/ecaldwe1/packtivity-with-umbrella-examples/wiki/Setting-Up-Environment)
+ - [Creating Virtual Environments](https://github.com/ecaldwe1/packtivity-with-umbrella-examples/wiki/Creating-Virtual-Environments)
+ - [Types of Umbrella Specification in the Packtivity Spec](https://github.com/ecaldwe1/packtivity-with-umbrella-examples/wiki/Type-of-Umbrella-Specification)
 
 ### Examples:
  - [**Hello World Example**](https://github.com/ecaldwe1/packtivity-with-umbrella-examples/tree/master/hello-world-example)
@@ -35,6 +39,6 @@ These examples **will not run** if you are currently using these versions of [Pa
    
  - [**Hello World Example with Reference to the Umbrella Specification**](https://github.com/ecaldwe1/packtivity-with-umbrella-examples/tree/master/hello-world-example-full-spec-ref)
  
-   Runs a command and creates an output file with the result of the command, just as in the [Hello World Example](https://github.com/ecaldwe1/packtivity-with-umbrella-examples/tree/master/hello-world-example), however the Packtivity specification in this example uses a reference to the Umbrella specification file.
+   Runs a command and creates an output file with the result of the command, just as in the [Hello World Example](https://github.com/ecaldwe1/packtivity-with-umbrella-examples/tree/master/hello-world-example), however the Packtivity specification in this example uses a reference to the Umbrella specification file. Details on the different ways to include the Umbrella specification can be found on the wiki [here](https://github.com/ecaldwe1/packtivity-with-umbrella-examples/wiki/Type-of-Umbrella-Specification).
    
    See the instructions within the _hello-world-example-full-spec-ref_ directory for details on how to run this example.
