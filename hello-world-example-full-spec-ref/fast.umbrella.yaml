@@ -1,0 +1,131 @@
+---
+!!map {
+  ? !!str "cmd"
+  : !!str "ls /",
+  ? !!str "comment"
+  : !!str "Fast running application",
+  ? !!str "data"
+  : !!map {
+    ? !!str "densities.csv"
+    : !!map {
+      ? !!str "checksum"
+      : !!str "54ea34d38d96c311122642aec045bc40",
+      ? !!str "format"
+      : !!str "plain",
+      ? !!str "id"
+      : !!str "54ea34d38d96c311122642aec045bc40",
+      ? !!str "mountpoint"
+      : !!str "/tmp/densities.csv",
+      ? !!str "size"
+      : !!str "38132",
+      ? !!str "source"
+      : !!seq [
+        !!str "https://curate.nd.edu/downloads/fn106w94b5c",
+      ],
+    },
+    ? !!str "scenario.xml"
+    : !!map {
+      ? !!str "checksum"
+      : !!str "17537ae1d72910cab24a307445e71434",
+      ? !!str "format"
+      : !!str "plain",
+      ? !!str "id"
+      : !!str "17537ae1d72910cab24a307445e71434",
+      ? !!str "mountpoint"
+      : !!str "/tmp/scenario.xml",
+      ? !!str "size"
+      : !!str "27941",
+      ? !!str "source"
+      : !!seq [
+        !!str "https://curate.nd.edu/downloads/z603qv36d3q",
+      ],
+    },
+    ? !!str "scenario_32.xsd"
+    : !!map {
+      ? !!str "checksum"
+      : !!str "bef8a475dbd3765b61995f36b11b0672",
+      ? !!str "format"
+      : !!str "plain",
+      ? !!str "id"
+      : !!str "bef8a475dbd3765b61995f36b11b0672",
+      ? !!str "mountpoint"
+      : !!str "/tmp/scenario_32.xsd",
+      ? !!str "size"
+      : !!str "200376",
+      ? !!str "source"
+      : !!seq [
+        !!str "https://curate.nd.edu/downloads/fj23611124x",
+      ],
+    },
+  },
+  ? !!str "environ"
+  : !!map {
+    ? !!str "PWD"
+    : !!str "/tmp",
+  },
+  ? !!str "hardware"
+  : !!map {
+    ? !!str "arch"
+    : !!str "x86_64",
+    ? !!str "cores"
+    : !!str "1",
+    ? !!str "disk"
+    : !!str "3GB",
+    ? !!str "memory"
+    : !!str "2GB",
+  },
+  ? !!str "kernel"
+  : !!map {
+    ? !!str "name"
+    : !!str "linux",
+    ? !!str "version"
+    : !!str ">=2.6.18",
+  },
+  ? !!str "note"
+  : !!str "this a self-contained umbrella spec.",
+  ? !!str "os"
+  : !!map {
+    ? !!str "checksum"
+    : !!str "902703f016e0f930a870eaf9cb31640b",
+    ? !!str "format"
+    : !!str "tgz",
+    ? !!str "id"
+    : !!str "902703f016e0f930a870eaf9cb31640b",
+    ? !!str "name"
+    : !!str "CentOS",
+    ? !!str "size"
+    : !!str "72213624",
+    ? !!str "source"
+    : !!seq [
+      !!str "https://curate.nd.edu/downloads/9306sx63h0t",
+    ],
+    ? !!str "uncompressed_size"
+    : !!str "212684800",
+    ? !!str "version"
+    : !!str "6.6",
+  },
+  ? !!str "output"
+  : !!map {},
+  ? !!str "software"
+  : !!map {
+    ? !!str "openMalaria-32-centos6-x86_64"
+    : !!map {
+      ? !!str "checksum"
+      : !!str "97cff84e58a4172fd8e9d1cb25c6047c",
+      ? !!str "format"
+      : !!str "tgz",
+      ? !!str "id"
+      : !!str "97cff84e58a4172fd8e9d1cb25c6047c",
+      ? !!str "mountpoint"
+      : !!str "/software/openMalaria-32-centos6-x86_64",
+      ? !!str "size"
+      : !!str "2968452",
+      ? !!str "source"
+      : !!seq [
+        !!str "https://curate.nd.edu/downloads/ft848p60w7x",
+      ],
+      ? !!str "uncompressed_size"
+      : !!str "12881920",
+    },
+  },
+}
