@@ -3,7 +3,7 @@
 
 This example uses [Umbrella](http://ccl.cse.nd.edu/software/manuals/umbrella.html) as the backend.
 
-The specification file used in this example can not contain any tabs. Use spaces instead!
+The [specification file](https://github.com/ecaldwe1/packtivity-with-umbrella-examples/blob/master/hello-world-example-full-json-spec-ref/no-tabs-fast.umbrella) used in this example should not contain any tabs. Use spaces instead!
 
 ## About this example
 This example will echo "Hello World" to the command line and then pipe that into the outputfile.
