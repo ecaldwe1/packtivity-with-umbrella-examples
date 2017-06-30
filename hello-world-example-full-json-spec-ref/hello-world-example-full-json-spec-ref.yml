@@ -8,4 +8,4 @@ publisher:
 environment:
   environment_type: 'umbrella'
   image: 'centos6'
-  spec: {$ref: 'fast.umbrella.yaml'}
+  spec: {$ref: 'no-tabs-fast.umbrella'}
