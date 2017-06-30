@@ -38,7 +38,7 @@ packtivity-run hello-world-example-full-json-spec-ref.yml \
 -p outputfile="'{workdir}/outputfile'"
 ```
 
-When the packtivity has finished running, you should see a new file in the directory you ran the command in. This is the outputfile specified in the command and specification. If you open this file, you will see that it has the same text as the given input file.
+When the packtivity has finished running, you should see a new file in the directory you ran the command in. This is the outputfile specified in the command and specification. If you open this file, you will see that it contains "Hello World".
 
 
 ---
