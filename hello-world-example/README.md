@@ -34,10 +34,10 @@ packtivity-run hello-world-example.yml \
 -p outputfile="'{workdir}/outputfile'"
 ```
 
-When the packtivity has finished running, you should see a new file in the directory you ran the command in. This is the outputfile specified in the command and specification. If you open this file, you will see that it has the same text as the given input file.
+When the packtivity has finished running, you should see a new file in the directory you ran the command in. This is the outputfile specified in the command and specification. If you open this file, you will see that it contains "Hello World".
 
 
 ---
 Simple Packtivity Examples Using Umbrella  
 E. Caldwell - Center for Research Computing, University of Notre Dame  
-last updated: 24 May 2017
+last updated: 30 June 2017
